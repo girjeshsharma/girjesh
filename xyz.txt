@@ -1,3 +1,7 @@
 this is my first file and the first line of my code.
 This is second line in this file added today
+Updated upstream
 THis is after stash
+
+THis is the third line
+Stashed changes
